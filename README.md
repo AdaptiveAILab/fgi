@@ -1,6 +1,6 @@
 # Flexible and Efficient Surrogate Gradient Modeling with Forward Gradient Injection
 Sebastian Otte<br>
-Adaptive AI Lab, University of Lübeck
+[Adaptive AI Lab](https://www.adaptiveailab.com), University of Lübeck
 
 ## Abstract
 
@@ -96,7 +96,7 @@ Using FGI instead of overriding the backward method can provide significant adva
 ![image](https://github.com/AdaptiveAILab/fgi/assets/3898842/faad2932-7881-4afb-947e-e269a0e02c9d)
 ![image](https://github.com/AdaptiveAILab/fgi/assets/3898842/10410559-7ddd-4432-8b5a-79b91886c961)
 
-Note that with increasing sequence length, torch.compile has extended warmup costs. More details an results can be found in the [paper](https://arxiv.org/pdf/2406.00177).
+Note that with increasing sequence length, torch.compile has extended warmup costs. More details and results can be found in the [paper](https://arxiv.org/pdf/2406.00177).
 
 ## See FGI in action
 
