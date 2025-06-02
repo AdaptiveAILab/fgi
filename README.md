@@ -113,15 +113,18 @@ See this [paper](https://openreview.net/forum?id=dkdilv4XD4) for details.
 
 If you find this repository helpful and use FGI for your research, please cite:
 
-- Sebastian Otte (2024). **Flexible and Efficient Surrogate Gradient Modeling with Forward Gradient Injection**. *First Austrian Symposium on AI, Robotics, and Vision*. Accepted for publication. arXiv preprint [arXiv:2406.00177](https://arxiv.org/abs/2406.00177).
+- Sebastian Otte (2024). **Flexible and Efficient Surrogate Gradient Modeling with Forward Gradient Injection**. *First Austrian Symposium on AI, Robotics, and Vision*. innsbruck university press. arXiv preprint [arXiv:2406.00177](https://arxiv.org/abs/2406.00177).
 
 ```
-@misc{otte2024flexible,
-      title={Flexible and Efficient Surrogate Gradient Modeling with Forward Gradient Injection}, 
-      author={Sebastian Otte},
-      year={2024},
-      eprint={2406.00177},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@InProceedings{Otte2024Flexible,
+    author        = {Sebastian Otte},
+    title         = {Flexible and Efficient Surrogate Gradient Modeling with Forward Gradient Injection},
+    year          = {2024},
+    booktitle     = {First Austrian Symposium on AI, Robotics, and Vision},
+    publisher     = {innsbruck university press},
+    doi           = {10.15203/99106-150-2-74},
+    eprint        = {2406.00177},
+    archivePrefix = {arXiv},
+    primaryClass  = {cs.LG}
 }
 ```
